@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\bin\Debug\net8.0\Wpm.Management.Domain.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\bin\Debug\net8.0\Wpm.Management.Domain.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\bin\Debug\net8.0\Wpm.Management.Domain.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\refint\Wpm.Management.Domain.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\DDD SOLUTION\Wpm.Management.Domain\obj\Debug\net8.0\ref\Wpm.Management.Domain.dll

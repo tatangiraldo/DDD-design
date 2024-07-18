@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E167DD0-5F93-4C86-B921-3125887474AB}|Wpm.Management.Domain.Tests\\Wpm.Management.Domain.Tests.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E167DD0-5F93-4C86-B921-3125887474AB}|Wpm.Management.Domain.Tests\\Wpm.Management.Domain.Tests.csproj|solutionrelative:wpm.management.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain\\valueobjects\\breedid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\valueobjects\\breedid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\user\\desktop\\jhonnatan\\devops\\.net\\workspace\\ddd solution\\wpm.management.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E41AA6-7A81-48A7-B479-452BBE352E22}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Wpm.Management.Domain.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:58:14.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBreedService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\IBreedService.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\IBreedService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\IBreedService.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\IBreedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:53:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreedId.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\ValueObjects\\BreedId.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\ValueObjects\\BreedId.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\ValueObjects\\BreedId.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\ValueObjects\\BreedId.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:49:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Breed.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\Breed.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Breed.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:47:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Pet.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\Pet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Pet.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\Pet.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:56:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\DDD SOLUTION\\Wpm.Management.Domain\\Entity.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:56:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
